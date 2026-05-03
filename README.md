@@ -132,7 +132,7 @@ Manual analysis is time-consuming and inefficient.
 
 ## 📸 Demo
 
-Live Demo: []  
+Live Demo: [https://ritikat26.github.io/ExamIQ/]  
 Demo Video: [https://drive.google.com/file/d/1UYGL3NsdbCeqZAeDwPlQeIyEMBK2j9zp/view?usp=sharing]  
 
 ---
