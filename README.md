@@ -154,5 +154,5 @@ Demo Video: [https://drive.google.com/file/d/1UYGL3NsdbCeqZAeDwPlQeIyEMBK2j9zp/v
 - Voice assistant for study guidance  
 - YouTube learning integration  
 - Peer comparison & collaboration  
-npm install
-npm start
+
+---
