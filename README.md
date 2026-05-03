@@ -133,7 +133,7 @@ Manual analysis is time-consuming and inefficient.
 ## 📸 Demo
 
 Live Demo: []  
-Demo Video: []  
+Demo Video: [https://drive.google.com/file/d/1UYGL3NsdbCeqZAeDwPlQeIyEMBK2j9zp/view?usp=sharing]  
 
 ---
 
